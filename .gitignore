@@ -1,0 +1,11 @@
+# Folders
+*.idea/
+*out/
+
+# Filetypes
+*.iml
+*.zip
+*.class
+
+# Specific files
+*.DS_Store
